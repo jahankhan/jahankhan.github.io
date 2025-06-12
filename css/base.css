@@ -26,10 +26,10 @@ body {
     border-radius: 2%;
 }
 
-.bio p {
+/* .bio p {
     max-height: 160px;
     overflow: scroll;
-}
+} */
 
 .heading-flex {
     display: flex;
